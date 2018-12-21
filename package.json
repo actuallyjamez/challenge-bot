@@ -1,0 +1,17 @@
+{
+  "name": "challengemaster",
+  "version": "1.0.0",
+  "description": "A discord bot to manage challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "enmap": "^4.5.0",
+    "minimist": "^1.2.0",
+    "minimist-string": "^1.0.2"
+  }
+}

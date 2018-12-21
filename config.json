@@ -1,0 +1,11 @@
+{
+    "token": "TOKEN_GOES_HERE",
+    "prefix": "!",
+    "rootCommand":"challenge",
+    "channelPrefix": "pc_",
+    "channels": [
+        "rules",
+        "challenges",
+        "sign_up"
+    ]
+}
